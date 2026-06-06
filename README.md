@@ -1,6 +1,7 @@
 # GregCursors
 List of cursors I made cuz idk felt like makin them
 
+## Light Cursors
 | Preview | Name |
 | - | - |
 | ![](./SVGs/normal-light-blue.svg) | Blue |
